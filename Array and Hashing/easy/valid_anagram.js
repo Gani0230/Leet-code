@@ -69,3 +69,5 @@ var isAnagram = function(s, t) {
 };
 
 console.log(isAnagram("ills","dill"))
+console.log(isAnagram("car","rat"))
+console.log(isAnagram("anagram","nagaram"))
